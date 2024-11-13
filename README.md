@@ -1,8 +1,6 @@
-# hotels_booking_app
+# Bookin Aapp
 
-A new Flutter project.
-
-## Getting Started
+## Flutter project.
 
 This project is a starting point for a Flutter application.
 
