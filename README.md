@@ -1,6 +1,6 @@
 # Bookin Aapp
 
-## Flutter project.
+## Flutter Application
 
 This project is a starting point for a Flutter application.
 
